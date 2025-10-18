@@ -1,0 +1,2 @@
+rootProject.name = "app-game-release-1"
+include ':app'
